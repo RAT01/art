@@ -1,0 +1,72 @@
+#Data Input & Arithmetic Operation
+> x <- 10  
+> y <- 5  
+>   
+> #Addition  
+> x+y  
+
+> #Subtraction  
+> x-y  
+
+> #Multiplication  
+> x*y  
+
+> #Division  
+> x/y  
+
+> #Exponent  
+> x^2  
+
+> #Modulus  
+> x%%y  
+
+> #Integer Division  
+> x%/%y  
+
+> #Logical Operators  
+> x<y  
+
+> x>y  
+
+> x==y 
+
+
+> #Vector of Strings  
+> fruit <- c("Mango","Apple","Orange","Grapes")  
+> print(fruit) 
+
+> #Vector of Numbers  
+> num <- c(9,6,5,3,4,4,3,5,9,8)  
+> print(num)  
+
+> #Vector of Sequence Number  
+> num <- 2:9  
+> print(num)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

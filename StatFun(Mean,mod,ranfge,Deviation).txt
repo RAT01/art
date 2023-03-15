@@ -1,0 +1,22 @@
+> #data 
+> x <- seq(1,15,2) 
+> print(x) 
+
+> #Arithemetic mean 
+> mean(x) [1] 
+
+> #Median 
+> median(x) 
+
+> #Mode 
+> mod <- 10%%2 
+> print(mod) 
+
+> #Range 
+> range(a) 
+
+> #Standard deviation 
+> sd(a) 
+
+> #Co-efficient of variance 
+> sd(a)/mean(a)*100 
